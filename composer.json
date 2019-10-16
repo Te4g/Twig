@@ -1,0 +1,13 @@
+{
+    "name": "te4g/twig",
+    "description": "quete Twig",
+    "authors": [
+        {
+            "name": "Te4g",
+            "email": "gaetan.rouseyrol@gmail.com"
+        }
+    ],
+    "require": {
+        "twig/twig": "^2.12"
+    }
+}
